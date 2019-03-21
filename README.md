@@ -1,6 +1,6 @@
 # README
 
-This README document steps are necessary to get the application up and running.
+These README document steps are necessary to get the application up and running.
 
 Things you cover:
 
